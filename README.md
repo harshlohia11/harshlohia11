@@ -6,7 +6,7 @@ This is Harsh Lohia someone,I am someone who is intrested to learn new techstack
 <ul>
   <li>💻 Intrested and learning Machine Learning and Deep Learning</li>
   <li>📫 Lets connect:<a href="https://www.linkedin.com/in/harsh-lohia-637a7b19b/">Linkedin-Harsh Lohia</a></li> 
-  <li>📫 Contact me: <a href="harsh.lohia11@gmail.com">harsh.lohia11@gmail.com</a></li>
+  <li>📫 Contact me: harsh.lohia11@gmail.com</li>
   <li>🕹️ Open source contributor</li>
   <li>⚡ Languages:Python,C,C++,Java</li>
   <li>✍️ Blog writter</li>
