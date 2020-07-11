@@ -1,4 +1,5 @@
-![](cover.png)
+<img src="cover.png"></img>
+
 Hi There 👋
 
 This is Harsh Lohia someone who is intrested to learn new techstacks and enhance my skillset. I am really passionate and keen to learn about Machine Learning and Deep Learning. I am someone who likes to work on a array of projects and make my contributions in some of the open source projects which support my skillset. 
