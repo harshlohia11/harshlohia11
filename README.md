@@ -1,4 +1,4 @@
-<img src="cover.png"></img>
+<img src="https://github.com/harshlohia11/harshlohia11/blob/master/cover.png"></img>
 
 Hi There 👋
 
